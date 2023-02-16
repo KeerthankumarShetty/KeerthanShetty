@@ -1,6 +1,9 @@
 
 
 This is my personal portfolio .
+
+
+
 DOB   : 23-01-1992
 Time of birth:08:50 AM                               
 BirthPlace:Manipal,Udupi 
